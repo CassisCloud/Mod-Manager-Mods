@@ -19,7 +19,7 @@
     "id": "dynamic-ui",
     "name": "Dynamic UI",
     "author": "grimmdev",
-    "description": "Samples movie poster and appies it to the play button.",
+    "description": "Samples movie poster colors and appies the majority color to the play button.",
     "version": "latest",
     "type": "js",
     "jellyfin": "10.10+",
