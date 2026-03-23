@@ -63,4 +63,20 @@
     "cssUrl": "https://raw.githubusercontent.com/chrissix666/Jellyfin-CSS-Mods/refs/heads/main/imdb-top250.css",
     "cssInline": null
   }
+  {
+    "id": "360-vr-player",
+    "name": "360 VR Player",
+    "author": "Mix1C",
+    "description": "A custom 360 degree video player.",
+    "version": "2026-02-23",
+    "type": "js",
+    "jellyfin": "10.10+",
+    "tags": ["vr", "ui", "player", "video"],
+    "previewUrl": "https://i.imgur.com/jNiUciN.png",
+    "sourceUrl": "https://github.com/Mix1C/Jellyfin-360VR-Player",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Mix1C/Jellyfin-360VR-Player@main/jellyfin-vr.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
+  }
 ]
