@@ -42,7 +42,7 @@
     "tags": ["player", "video"],
     "previewUrl": "",
     "sourceUrl": "https://github.com/chrissix666/Jellyfin-VideoOSD-Screenshot-Button",
-    "jsUrl": "https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Screenshot-Button/refs/heads/main/Jellyfin-VideoOSD-Screenshot-Button-v1.js",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/chrissix666/Jellyfin-VideoOSD-Screenshot-Button@main/Jellyfin-VideoOSD-Screenshot-Button-v1.js",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
