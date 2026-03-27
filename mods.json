@@ -141,5 +141,28 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+    {
+    "id": "extended-vr-player-three-beta",
+    "name": "Extended VR Player Beta by Three.js Beta",
+    "author": "CassisCloud",
+    "description": "Enhanced VR player with 360°, Full SBS, Half SBS, SBS 180°, OU 180°, OU 360° modes. Supports WebXR for Meta Quest 3 and features VR spatial UI controls.",
+    "version": "1.0.0",
+    "type": "js",
+    "jellyfin": "10.10+",
+    "tags": [
+      "vr",
+      "ui",
+      "player",
+      "video",
+      "3d",
+      "quest"
+    ],
+    "previewUrl": "",
+    "sourceUrl": "https://github.com/CassisCloud/Jellyfin-360VR-Player",
+    "jsUrl": "https://raw.githubusercontent.com/CassisCloud/Jellyfin-360VR-Player/debug/jellyfin-vr.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
