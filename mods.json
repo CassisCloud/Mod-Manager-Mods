@@ -160,7 +160,7 @@
     ],
     "previewUrl": "",
     "sourceUrl": "https://github.com/CassisCloud/Jellyfin-360VR-Player",
-    "jsUrl": "https://raw.githubusercontent.com/CassisCloud/Jellyfin-360VR-Player/debug/jellyfin-vr.js",
+    "jsUrl": "https://raw.githubusercontent.com/CassisCloud/Jellyfin-360VR-Player/debug/jellyfin-vr.js?v=202603281507",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
