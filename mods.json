@@ -143,8 +143,8 @@
     "cssInline": null
   },
       {
-    "id": "extended-vr-player-three-beta",
-    "name": "Extended VR Player Beta by Three.js Beta",
+    "id": "extended-vr-player-three-beta-debug-new",
+    "name": "Extended VR Player Beta by Three.js Beta Debug New",
     "author": "CassisCloud",
     "description": "Enhanced VR player with 360°, Full SBS, Half SBS, SBS 180°, OU 180°, OU 360° modes. Supports WebXR for Meta Quest 3 and features VR spatial UI controls.",
     "version": "1.0.0",
